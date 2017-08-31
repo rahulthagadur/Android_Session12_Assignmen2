@@ -1,0 +1,9 @@
+<resources>
+    //Declare the String variables
+    <string name="app_name">Android_Session12_Assignmen2</string>
+    <string name="PREF_FILE">APP_PREF_FILE</string>
+    <string name="NAME">NAME</string>
+    <string name="AGE">AGE</string>
+    <string name="PH_NUM">PH_NUMBER</string>
+    <string name="CITY">CITY</string>
+</resources>
